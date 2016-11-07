@@ -1,3 +1,3 @@
 # Food_Trucks_MEAN_Stack
 ##AngularJS in progress...
-Get Montreal : Food trucks, bike stations and bike racks
+Montreal: Search food trucks, bike stations and bike racks
