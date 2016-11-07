@@ -1,0 +1,18 @@
+# git ignore 
+node_modules
+database
+npm-debug.log
+
+
+# environnement
+.*dev
+.*env
+*.txt
+
+#OS X files
+.DS_STORE
+Dockerfile
+
+.idea/
+public/
+views/
